@@ -1,0 +1,43 @@
+.navbar ul {
+    list-style-type: none; 
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar ul li {
+    display: inline; 
+    margin-right: 20px; 
+  }
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  .main-header {
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  .site-title {
+    font-size: 2.5rem;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .content {
+    padding: 40px;
+  }
+  
+  .intro {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  .main-footer {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
